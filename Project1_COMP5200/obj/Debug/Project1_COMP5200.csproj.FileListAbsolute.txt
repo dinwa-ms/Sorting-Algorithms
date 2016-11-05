@@ -1,0 +1,11 @@
+c:\users\yliu\documents\visual studio 2015\Projects\Project1_COMP5200\Project1_COMP5200\bin\Debug\Project1_COMP5200.exe.config
+c:\users\yliu\documents\visual studio 2015\Projects\Project1_COMP5200\Project1_COMP5200\bin\Debug\Project1_COMP5200.exe
+c:\users\yliu\documents\visual studio 2015\Projects\Project1_COMP5200\Project1_COMP5200\bin\Debug\Project1_COMP5200.pdb
+c:\users\yliu\documents\visual studio 2015\Projects\Project1_COMP5200\Project1_COMP5200\obj\Debug\Project1_COMP5200.csprojResolveAssemblyReference.cache
+c:\users\yliu\documents\visual studio 2015\Projects\Project1_COMP5200\Project1_COMP5200\obj\Debug\Project1_COMP5200.Form1.resources
+c:\users\yliu\documents\visual studio 2015\Projects\Project1_COMP5200\Project1_COMP5200\obj\Debug\Project1_COMP5200.Properties.Resources.resources
+c:\users\yliu\documents\visual studio 2015\Projects\Project1_COMP5200\Project1_COMP5200\obj\Debug\Project1_COMP5200.csproj.GenerateResource.Cache
+c:\users\yliu\documents\visual studio 2015\Projects\Project1_COMP5200\Project1_COMP5200\obj\Debug\Project1_COMP5200.exe
+c:\users\yliu\documents\visual studio 2015\Projects\Project1_COMP5200\Project1_COMP5200\obj\Debug\Project1_COMP5200.pdb
+c:\users\yliu\documents\visual studio 2015\Projects\Project1_COMP5200\Project1_COMP5200\bin\Debug\Properties\Settings.Designer.cs
+c:\users\yliu\documents\visual studio 2015\Projects\Project1_COMP5200\Project1_COMP5200\bin\Debug\Properties\Settings.settings
